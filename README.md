@@ -21,6 +21,7 @@
 
 - Learnt basic of `EXPRESSJS` 
 
+- Basic routing
 
 
 
